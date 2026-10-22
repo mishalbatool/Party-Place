@@ -1,0 +1,6 @@
+{
+  "name": "Party Place - Event & Party Venue in Chiniot",
+  "description": "Premium event and party venue in Chiniot, Punjab, Pakistan. Discover the perfect setting for birthdays, weddings, family celebrations, and special occasions. Rated 4.6 stars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
